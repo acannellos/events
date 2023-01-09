@@ -1,6 +1,6 @@
 # events
 
-my take on the ScriptableObject GameEvent systems outlined below, mainly altered so that GameEventListener is more a container for any number of GameEvents that may impact a single GameObject
+my take on the ScriptableObject GameEvent systems outlined below
 
 https://www.youtube.com/watch?v=7_dyDmF0Ktw
 <br>
